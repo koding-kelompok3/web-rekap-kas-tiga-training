@@ -5,7 +5,7 @@
 #### Anggota:
 #### 1. Putrintan Amalia Rizqyta (12030121130168)
 #### 2. Agatha Angelina Permana (12030121130120)
-#### 3. Altsa Kamilatun Nuha (12030121130127), 
+#### 3. Altsa Kamilatun Nuha (12030121130127)
 #### 4. Tsuraya Ardiana	(12030121130156).
 
 #### KELAS PENGKODEAN DAN PEMROGRAMAN D AKUNTANSI UNDIP 2022/2023
